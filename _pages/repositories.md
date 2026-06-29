@@ -2,13 +2,10 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: ""
+description: Explore my GitHub profiles at [da24s002](https://github.com/da24s002) and [cpuspak](https://github.com/cpuspak).
 nav: true
 nav_order: 4
 ---
-
-a) [da24s002](https://github.com/da24s002) -> https://github.com/da24s002  
-b) [cpuspak](https://github.com/cpuspak) -> https://github.com/cpuspak
 
 {% if site.data.repositories.github_users %}
 

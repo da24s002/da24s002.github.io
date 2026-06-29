@@ -5,7 +5,7 @@ cv_pdf: /Puspak%20Resume.pdf # path to your CV PDF file
 email: puspak13524@gmail.com # your email address
 github_username: da24s002
 linkedin_username: puspak-chakraborty
-rss_icon: true # comment this line to hide the RSS icon
+rss_icon: false # comment this line to hide the RSS icon
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg # can be png, svg, jpg
   title: HackerRank
