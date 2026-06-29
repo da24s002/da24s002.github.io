@@ -40,9 +40,9 @@
       "endDate": "Present",
       "summary": "Researching in Data Science and Artificial Intelligence under the M.S. program.",
       "highlights": [
-        "Investigating the theoretical and empirical equivalence between Deep Neural Networks (DNNs) and boosting algorithms.",
+        "Investigating Decision Trees, Boosting and Deep Neural Networks.",
         "Developing Boosting architectures that use neural routers for intelligent spatial partitioning to handle heteroscedastic noise.",
-        "Publications: One manuscript detailing the boosting architecture for heteroscedastic noise is currently under review."
+        "Publications: Puspak Chakraborty, Arun Rajkumar. “Neural Routed Boosting: Robust Learning against Heteroscedastic Noise.” To appear in Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI), 2026."
       ]
     },
     {
@@ -121,7 +121,15 @@
       "icon": "fa-solid fa-cloud"
     }
   ],
-  "publications": [],
+  "publications": [
+    {
+      "name": "Neural Routed Boosting: Robust Learning against Heteroscedastic Noise",
+      "publisher": "Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI), 2026",
+      "releaseDate": "2026-01-01",
+      "url": "",
+      "summary": "To appear in Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI), 2026."
+    }
+  ],
   "skills": [
     {
       "name": "Languages",
