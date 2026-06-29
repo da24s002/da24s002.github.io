@@ -56,7 +56,7 @@ cv:
         highlights:
           - "Investigating Decision Trees, Boosting and Deep Neural Networks."
           - "Developing Boosting architectures that use neural routers for intelligent spatial partitioning to handle heteroscedastic noise."
-          - "Publications: Puspak Chakraborty, Arun Rajkumar. “Neural Routed Boosting: Robust Learning against Heteroscedastic Noise.” To appear in Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI), 2026."
+          - "Publications: Puspak Chakraborty, Arun Rajkumar. “Neural Routed Boosting: Robust Learning against Heteroscedastic Noise.” Accepted at the Conference on Uncertainty in Artificial Intelligence (UAI) 2026. To appear in Proceedings of Machine Learning Research (PMLR)."
 
       - company: Indian Institute of Technology Madras
         position: Teaching Assistant
