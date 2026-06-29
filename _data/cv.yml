@@ -1,189 +1,137 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Puspak Chakraborty
+  label: M.S. Research Scholar
+  email: puspak13524@gmail.com
+  location: Chennai, India
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: M.S. Research Scholar in Data Science and Artificial Intelligence at IIT Madras, investigating the theoretical and empirical equivalence between Deep Neural Networks (DNNs) and boosting algorithms. Experienced Specialist Programmer with a demonstrated history of working with serverless data pipelines, REST APIs, and MLOps.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
+      username: puspak-chakraborty
+    - network: GitHub
+      username: da24s002
+    - network: HackerRank
+      username: puspak13524
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: IIT Madras
+    city: Chennai
+    region: Tamil Nadu
+    postalCode: 600036
+    countryCode: IN
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Indian Institute of Technology Madras (IIT Madras)
+        location: Chennai, India
+        url: https://www.iitm.ac.in/
+        area: Data Science and Artificial Intelligence
+        studyType: M.S.
+        start_date: June 2024
+        end_date: Present
+        score: "CGPA: 9.06/10"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Investigating the theoretical and empirical equivalence between Deep Neural Networks (DNNs) and boosting algorithms."
+          - "Developing Boosting architectures that use neural routers for intelligent spatial partitioning to handle heteroscedastic noise."
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: RCC Institute of Information Technology
+        location: Kolkata, India
+        area: Computer Science
+        studyType: B.Tech
+        start_date: June 2016
+        end_date: June 2020
+        score: "CGPA: 9.33/10"
+        courses: ""
+        highlights: []
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Indian Institute of Technology Madras
+        position: M.S. Research Scholar
+        location: Chennai, India
+        start_date: June 2024
+        end_date: Present
+        summary: Researching in Data Science and Artificial Intelligence under the M.S. program.
         highlights:
-          - Relativity
-          - Description 2.
+          - "Investigating the theoretical and empirical equivalence between Deep Neural Networks (DNNs) and boosting algorithms."
+          - "Developing Boosting architectures that use neural routers for intelligent spatial partitioning to handle heteroscedastic noise."
+          - "Publications: One manuscript detailing the boosting architecture for heteroscedastic noise is currently under review."
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Indian Institute of Technology Madras
+        position: Teaching Assistant
+        location: Chennai, India
+        start_date: January 2025
+        end_date: Present
+        summary: Assisting in course operations and providing academic support.
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Foundations of Machine Learning (DA5400): Facilitated course operations and provided academic support for approximately 150 students (July 2025 – Nov 2025)."
+          - "Mathematical Foundations of Data Science (DA5000): Assisted in course operations for about 90 students (Jan 2025 – May 2025)."
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Infosys
+        position: Specialist Programmer
+        location: Kolkata, India
+        start_date: October 2020
+        end_date: July 2024
+        summary: Worked as a Specialist Programmer developing cloud-based enterprise solutions.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+          - "Developed serverless data pipelines using AWS SQS-triggered Lambda functions for a legal domain product."
+          - "Designed REST APIs and optimized existing enterprise codebase, significantly improving processing efficiency."
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: "MeetGenAI: Advanced Meeting Intelligence Pipeline"
+        summary: "Engineered a parallelized audio processing pipeline combining Whisper for transcription, Pyannote for speaker diarization, ChromaDB, and PyTorch."
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - "Developed a multi-modal NLP module utilizing spaCy and SentenceTransformers to extract entities, track topic evolution, and perform sentiment analysis on time-chunked conversation segments."
+          - "Implemented a Retrieval-Augmented Generation (RAG) architecture using ChromaDB to maintain historical meeting context, powering a fine-tuned Llama-3 model (via PEFT/LoRA) to generate structured executive summaries."
+        start_date: ""
+        end_date: ""
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: "Handdrawn Image Classifier System with Feedback"
+        summary: "Architected a containerized FastAPI web app for real-time doodle classification with human-in-the-loop feedback using FastAPI, MLflow, Docker, Prometheus, and DVC."
+        highlights:
+          - "Built an automated retraining pipeline using DVC, Git, and MLflow for seamless dataset versioning and model updates."
+          - "Implemented system observability with Prometheus, Grafana, and a PostgreSQL-backed dashboard for pipeline tracking."
+        start_date: ""
+        end_date: ""
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: "Seq2Seq Neural Machine Transliteration"
+        summary: "Developed an Encoder-Decoder model (RNN/GRU/LSTM with Attention) for English to Hindi transliteration using PyTorch and WandB."
+        highlights:
+          - "Implemented greedy and beam search decoding strategies with length penalties."
+          - "Orchestrated Bayesian hyperparameter tuning via Weights & Biases and built custom attention heatmap visualizations."
+        start_date: ""
+        end_date: ""
+
+    Skills:
+      - name: Languages
+        level: Master
+        icon: fa-solid fa-code
+        keywords: "C++, Python, SQL"
+
+      - name: Tools & Frameworks
+        level: Master
+        icon: fa-solid fa-cubes
+        keywords: "PyTorch, AWS, Git, MySQL, Prometheus, Grafana, Airflow, DVC"
+
+      - name: Core Concepts
+        level: Master
+        icon: fa-solid fa-brain
+        keywords: "Machine Learning, Artificial Intelligence, Optimization Algorithms"
+
+    Awards:
+      - title: "KLA Image Restoration Hackathon"
+        date: ""
+        awarder: "Computer Science Department, IIT Madras"
+        summary: "Secured Rank 11 out of 61 teams in KLA Image Restoration Hackathon, hosted by Computer Science Department, IIT Madras."
+
+      - title: "GATE 2024 (Computer Science)"
+        date: "2024"
+        awarder: "GATE"
+        summary: "Secured All India Rank (AIR) 439 / 123,967 candidates in GATE 2024 (Computer Science), GATE Score: 765/1000."
+
+    Certificates:
+      - name: "AWS Certified Cloud Practitioner"
+        date: "01/2022 – 01/2025"
+        issuer: "AWS"
+        icon: fa-solid fa-cloud
