@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Explore my GitHub profiles at [da24s002](https://github.com/da24s002) and [cpuspak](https://github.com/cpuspak).
+description: ""
 nav: true
 nav_order: 4
 ---
@@ -13,7 +13,9 @@ nav_order: 4
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
+    <a href="https://github.com/{{ user }}">
+      {% include repository/repo_user.liquid username=user %}
+    </a>
   {% endfor %}
 </div>
 
