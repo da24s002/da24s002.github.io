@@ -10,3 +10,7 @@ custom_social: # can be any name here other than the ones already defined in the
   logo: https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg # can be png, svg, jpg
   title: HackerRank
   url: https://hackerrank.com/puspak13524
+leetcode:
+  logo: https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png # can be png, svg, jpg
+  title: LeetCode
+  url: https://leetcode.com/u/puspak/

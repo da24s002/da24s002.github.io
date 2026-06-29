@@ -28,7 +28,7 @@ cv:
         url: https://www.iitm.ac.in/
         area: Data Science and Artificial Intelligence
         studyType: M.S.
-        start_date: June 2024
+        start_date: 2024
         end_date: Present
         score: "CGPA: 9.06/10"
         courses: ""
@@ -40,8 +40,8 @@ cv:
         location: Kolkata, India
         area: Computer Science
         studyType: B.Tech
-        start_date: June 2016
-        end_date: June 2020
+        start_date: 2016
+        end_date: 2020
         score: "CGPA: 9.33/10"
         courses: ""
         highlights: []
@@ -50,7 +50,7 @@ cv:
       - company: Indian Institute of Technology Madras
         position: M.S. Research Scholar
         location: Chennai, India
-        start_date: June 2024
+        start_date: 2024
         end_date: Present
         summary: Researching in Data Science and Artificial Intelligence under the M.S. program.
         highlights:
@@ -61,7 +61,7 @@ cv:
       - company: Indian Institute of Technology Madras
         position: Teaching Assistant
         location: Chennai, India
-        start_date: January 2025
+        start_date: 2025
         end_date: Present
         summary: Assisting in course operations and providing academic support.
         highlights:
@@ -71,8 +71,8 @@ cv:
       - company: Infosys
         position: Specialist Programmer
         location: Kolkata, India
-        start_date: October 2020
-        end_date: July 2024
+        start_date: 2020
+        end_date: 2024
         summary: Worked as a Specialist Programmer developing cloud-based enterprise solutions.
         highlights:
           - "Developed serverless data pipelines using AWS SQS-triggered Lambda functions for a legal domain product."
@@ -121,7 +121,7 @@ cv:
 
     Awards:
       - title: "KLA Image Restoration Hackathon"
-        date: ""
+        date: "2026"
         awarder: "Computer Science Department, IIT Madras"
         summary: "Secured Rank 11 out of 61 teams in KLA Image Restoration Hackathon, hosted by Computer Science Department, IIT Madras."
 
