@@ -170,11 +170,11 @@
   "references": [],
   "projects": [
     {
-      "name": "MeetGenAI: Advanced Meeting Intelligence Pipeline",
-      "summary": "Engineered a parallelized audio processing pipeline combining Whisper for transcription, Pyannote for speaker diarization, ChromaDB, and PyTorch.",
+      "name": "Polyvox: Optimized Edge AI Acoustic Pipeline",
+      "summary": "Engineered a highly optimized edge AI acoustic processing pipeline utilizing a dynamic routing system and Pyannote diarization.",
       "highlights": [
-        "Developed a multi-modal NLP module utilizing spaCy and SentenceTransformers to extract entities, track topic evolution, and perform sentiment analysis on time-chunked conversation segments.",
-        "Implemented a Retrieval-Augmented Generation (RAG) architecture using ChromaDB to maintain historical meeting context, powering a fine-tuned Llama-3 model (via PEFT/LoRA) to generate structured executive summaries."
+        "Trained and finetuned Sandglasset model on customized dynamic LibriMix dataset.",
+        "Enhanced the intent classification engine's robustness by generating custom datasets incorporating comprehensive slots and phonetic error dictionaries."
       ],
       "startDate": "2023-01-01",
       "endDate": "2024-01-01"
