@@ -54,7 +54,7 @@ cv:
         end_date: Present
         summary: Researching in Data Science and Artificial Intelligence under the M.S. program.
         highlights:
-          - "Investigating Decision Trees, Boosting and Deep Neural Networks."
+          - "Investigating theoretical equivalences between Deep Linearly Gated Networks and differentiable gradient boosting architectures."
           - "Developing Boosting architectures that use neural routers for intelligent spatial partitioning to handle heteroscedastic noise."
           - "Publications: Puspak Chakraborty, Arun Rajkumar. “Neural Routed Boosting: Robust Learning against Heteroscedastic Noise.” Accepted at the Conference on Uncertainty in Artificial Intelligence (UAI) 2026. To appear in Proceedings of Machine Learning Research (PMLR)."
 
@@ -103,10 +103,13 @@ cv:
         start_date: ""
         end_date: ""
 
-      - name: "Agentic Research Assistant"
+      - name: "Multi-Agent Research Assistant"
         summary: "A portal which helps in research. It can go through the web, arxiv, and local papers to generate answers for queries."
         url: "https://github.com/da24s002/Agentic-Research-Assistant"
-        highlights: []
+        highlights:
+          - "Architected a local multi-agent AI research assistant integrating retrieval from LocalPDFs, arXiv, and DuckDuckGo search tools via LangGraph, powered by a 4-bit quantized Mistral-Nemo-Instruct-2407 model for on-device inference."
+          - "Engineered a hybrid Retrieval-Augmented Generation (RAG) pipeline integrating BM25 and dense retrieval via ChromaDB, enhanced by layout-aware chunking with Marker."
+          - "Implemented robust LLMOps tracking and observability utilizing Arize Phoenix for model evaluation and trace monitoring."
         start_date: ""
         end_date: ""
 
@@ -119,12 +122,12 @@ cv:
       - name: Tools & Frameworks
         level: Master
         icon: fa-solid fa-cubes
-        keywords: "PyTorch, AWS, Git, MySQL, Prometheus, Grafana, Airflow, DVC"
+        keywords: "PyTorch, LangGraph, HuggingFace, AWS, Git, MySQL, Prometheus, Grafana, Airflow, DVC, ChromaDB"
 
       - name: Core Concepts
         level: Master
         icon: fa-solid fa-brain
-        keywords: "Machine Learning, Artificial Intelligence, Optimization Algorithms"
+        keywords: "Machine Learning, Artificial Intelligence, Optimization Algorithms, LLMOps, RAG"
 
     Awards:
       - title: "KLA Image Restoration Hackathon"

@@ -40,7 +40,7 @@
       "endDate": "Present",
       "summary": "Researching in Data Science and Artificial Intelligence under the M.S. program.",
       "highlights": [
-        "Investigating Decision Trees, Boosting and Deep Neural Networks.",
+        "Investigating theoretical equivalences between Deep Linearly Gated Networks and differentiable gradient boosting architectures.",
         "Developing Boosting architectures that use neural routers for intelligent spatial partitioning to handle heteroscedastic noise.",
         "Publications: Puspak Chakraborty, Arun Rajkumar. “Neural Routed Boosting: Robust Learning against Heteroscedastic Noise.” Accepted at the Conference on Uncertainty in Artificial Intelligence (UAI) 2026. To appear in Proceedings of Machine Learning Research (PMLR)."
       ]
@@ -147,13 +147,16 @@
       "icon": "fa-solid fa-cubes",
       "keywords": [
         "PyTorch",
+        "LangGraph",
+        "HuggingFace",
         "AWS",
         "Git",
         "MySQL",
         "Prometheus",
         "Grafana",
         "Airflow",
-        "DVC"
+        "DVC",
+        "ChromaDB"
       ]
     },
     {
@@ -163,7 +166,9 @@
       "keywords": [
         "Machine Learning",
         "Artificial Intelligence",
-        "Optimization Algorithms"
+        "Optimization Algorithms",
+        "LLMOps",
+        "RAG"
       ]
     }
   ],
@@ -208,9 +213,13 @@
       "endDate": "2024-01-01"
     },
     {
-      "name": "Agentic Research Assistant",
+      "name": "Multi-Agent Research Assistant",
       "summary": "A portal which helps in research. It can go through the web, arxiv, and local papers to generate answers for queries.",
-      "highlights": [],
+      "highlights": [
+        "Architected a local multi-agent AI research assistant integrating retrieval from LocalPDFs, arXiv, and DuckDuckGo search tools via LangGraph, powered by a 4-bit quantized Mistral-Nemo-Instruct-2407 model for on-device inference.",
+        "Engineered a hybrid Retrieval-Augmented Generation (RAG) pipeline integrating BM25 and dense retrieval via ChromaDB, enhanced by layout-aware chunking with Marker.",
+        "Implemented robust LLMOps tracking and observability utilizing Arize Phoenix for model evaluation and trace monitoring."
+      ],
       "startDate": "2024-01-01",
       "endDate": "2024-01-01",
       "url": "https://github.com/da24s002/Agentic-Research-Assistant"
