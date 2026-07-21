@@ -25,7 +25,7 @@ cv:
     Education:
       - institution: Indian Institute of Technology Madras (IIT Madras)
         location: Chennai, India
-        url: https://www.iitm.ac.in/
+        # url: https://www.iitm.ac.in/
         area: Data Science and Artificial Intelligence
         studyType: M.S.
         start_date: 2024
@@ -88,7 +88,7 @@ cv:
           - "Implemented robust LLMOps tracking and observability utilizing Arize Phoenix for model evaluation and trace monitoring."
         start_date: ""
         end_date: ""
-        
+
       - name: "Polyvox: Optimized Edge AI Acoustic Pipeline"
         url: "https://github.com/da24s002/polyvox"
         summary: "Engineered a highly optimized edge AI acoustic processing pipeline utilizing a dynamic routing system and Pyannote diarization."
