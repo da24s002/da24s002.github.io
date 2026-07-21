@@ -79,30 +79,6 @@ cv:
           - "Designed REST APIs and optimized existing enterprise codebase, significantly improving processing efficiency."
 
     Projects:
-      - name: "Polyvox: Optimized Edge AI Acoustic Pipeline"
-        summary: "Engineered a highly optimized edge AI acoustic processing pipeline utilizing a dynamic routing system and Pyannote diarization."
-        highlights:
-          - "Trained and finetuned Sandglasset model on customized dynamic LibriMix dataset."
-          - "Enhanced the intent classification engine's robustness by generating custom datasets incorporating comprehensive slots and phonetic error dictionaries."
-        start_date: ""
-        end_date: ""
-
-      - name: "Handdrawn Image Classifier System with Feedback"
-        summary: "Architected a containerized FastAPI web app for real-time doodle classification with human-in-the-loop feedback using FastAPI, MLflow, Docker, Prometheus, and DVC."
-        highlights:
-          - "Built an automated retraining pipeline using DVC, Git, and MLflow for seamless dataset versioning and model updates."
-          - "Implemented system observability with Prometheus, Grafana, and a PostgreSQL-backed dashboard for pipeline tracking."
-        start_date: ""
-        end_date: ""
-
-      - name: "Seq2Seq Neural Machine Transliteration"
-        summary: "Developed an Encoder-Decoder model (RNN/GRU/LSTM with Attention) for English to Hindi transliteration using PyTorch and WandB."
-        highlights:
-          - "Implemented greedy and beam search decoding strategies with length penalties."
-          - "Orchestrated Bayesian hyperparameter tuning via Weights & Biases and built custom attention heatmap visualizations."
-        start_date: ""
-        end_date: ""
-
       - name: "Multi-Agent Research Assistant"
         summary: "A portal which helps in research. It can go through the web, arxiv, and local papers to generate answers for queries."
         url: "https://github.com/da24s002/Agentic-Research-Assistant"
@@ -112,6 +88,34 @@ cv:
           - "Implemented robust LLMOps tracking and observability utilizing Arize Phoenix for model evaluation and trace monitoring."
         start_date: ""
         end_date: ""
+        
+      - name: "Polyvox: Optimized Edge AI Acoustic Pipeline"
+        url: "https://github.com/da24s002/polyvox"
+        summary: "Engineered a highly optimized edge AI acoustic processing pipeline utilizing a dynamic routing system and Pyannote diarization."
+        highlights:
+          - "Trained and finetuned Sandglasset model on customized dynamic LibriMix dataset."
+          - "Enhanced the intent classification engine's robustness by generating custom datasets incorporating comprehensive slots and phonetic error dictionaries."
+        start_date: ""
+        end_date: ""
+
+      - name: "Handdrawn Image Classifier System with Feedback"
+        url: "https://github.com/da24s002/DA5402_Project"
+        summary: "Architected a containerized FastAPI web app for real-time doodle classification with human-in-the-loop feedback using FastAPI, MLflow, Docker, Prometheus, and DVC."
+        highlights:
+          - "Built an automated retraining pipeline using DVC, Git, and MLflow for seamless dataset versioning and model updates."
+          - "Implemented system observability with Prometheus, Grafana, and a PostgreSQL-backed dashboard for pipeline tracking."
+        start_date: ""
+        end_date: ""
+
+      - name: "Seq2Seq Neural Machine Transliteration"
+        url: "https://github.com/da24s002/DA6401_Assignment_3_Submission"
+        summary: "Developed an Encoder-Decoder model (RNN/GRU/LSTM with Attention) for English to Hindi transliteration using PyTorch and WandB."
+        highlights:
+          - "Implemented greedy and beam search decoding strategies with length penalties."
+          - "Orchestrated Bayesian hyperparameter tuning via Weights & Biases and built custom attention heatmap visualizations."
+        start_date: ""
+        end_date: ""
+
 
     Skills:
       - name: Languages
