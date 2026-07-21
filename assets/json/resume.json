@@ -206,6 +206,14 @@
       ],
       "startDate": "2023-01-01",
       "endDate": "2024-01-01"
+    },
+    {
+      "name": "Agentic Research Assistant",
+      "summary": "A portal which helps in research. It can go through the web, arxiv, and local papers to generate answers for queries.",
+      "highlights": [],
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-01",
+      "url": "https://github.com/da24s002/Agentic-Research-Assistant"
     }
   ]
 }
